@@ -7,13 +7,13 @@ description:
 
 picture: assets/images/picture.jpg
 
-url: http://koppl.in/violet
+url: https://waverlywei.github.io/
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
+#facebook: myfacebook
+#twitter: mytwitter
+github: WaverlyWei
 email: linqing_wei@berkeley.edu
 
 gems:
