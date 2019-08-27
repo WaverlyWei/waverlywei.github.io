@@ -22,9 +22,7 @@
     <b><a href="README.md#problems">Problems</a></b>
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/violet/gh-pages/violet.png" />
-</p>
+
 
 ## What has inside?
 
